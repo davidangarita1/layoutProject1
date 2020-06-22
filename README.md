@@ -1,4 +1,4 @@
-# layoutProject1
+# Layout Project 1
 Is a complete website that was built with javascript technologies, Jquery, for the frontend.
 
 # Link Web
